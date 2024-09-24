@@ -14,4 +14,11 @@ class AutoTest extends TestCase
         $auto = new Auto('foo');
         $this->assertEquals('foo', $auto->getName());
     }
+
+    public function testSetName(): void
+    {
+        $auto = new Auto('foo');
+        $auto->setName('bar');
+        $this->assertEquals('bar', $auto->getName());
+    }
 }
