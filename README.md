@@ -1,3 +1,4 @@
-# Repository Template
+This is a repository for testing automation
 
-This is a repository template for new repositories.
+- Continuous Intgration
+- Automated releases
