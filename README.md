@@ -2,5 +2,5 @@
 
 This is a repository for testing automation
 
-- Continuous Intgration
+- Continuous Integration
 - Automated releases
