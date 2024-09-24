@@ -1,6 +1,6 @@
 {
-  "name": "lm-commons/repository-template",
-  "description": "Repository template",
+  "name": "lm-commons/automation-testing",
+  "description": "Repository for testing automation",
   "license": "MIT",
   "authors": [
     {
@@ -18,10 +18,14 @@
     "vimeo/psalm": "^5.25"
   },
   "autoload": {
-
+    "psr-4": {
+      "Automation\\": "src/"
+    }
   },
   "autoload-dev": {
-
+    "psr-4": {
+      "AutomationTest\\": "test/"
+    }
   },
   "config": {
     "allow-plugins": {
