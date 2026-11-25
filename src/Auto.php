@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Automation;
 
-class Auto
+final class Auto
 {
     protected string $name;
 
