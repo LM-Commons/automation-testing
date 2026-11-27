@@ -17,6 +17,28 @@ QA
 
  - [33: Removing CHANGELOG.md for testing](https://github.com/LM-Commons/automation-testing/pull/33) thanks to @visto9259
 
+## 1.12.4 - TBD
+
+### Added
+
+- Nothing.
+
+### Changed
+
+- Nothing.
+
+### Deprecated
+
+- Nothing.
+
+### Removed
+
+- Nothing.
+
+### Fixed
+
+- Nothing.
+
 ## 1.12.3 - 2026-11-27
 
 
