@@ -17,27 +17,22 @@ QA
 
  - [33: Removing CHANGELOG.md for testing](https://github.com/LM-Commons/automation-testing/pull/33) thanks to @visto9259
 
-## 1.11.0 - TBD
+## 1.11.0 - 2026-11-27
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [1.11.0](https://github.com/LM-Commons/automation-testing/milestone/26)
 
-- Nothing.
+Feature release (minor)
 
-### Deprecated
+### 1.11.0
 
-- Nothing.
+- Total issues resolved: **0**
+- Total pull requests resolved: **1**
+- Total contributors: **1**
 
-### Removed
-
-- Nothing.
-
-### Fixed
-
-- Nothing.
+ - [40: Testing with requiring signed commits](https://github.com/LM-Commons/automation-testing/pull/40) thanks to @visto9259
 
 ## 1.10.0 - 2026-11-27
 
