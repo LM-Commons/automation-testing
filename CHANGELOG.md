@@ -25,7 +25,7 @@ QA
 
 ### Changed
 
-- Nothing.
+- Using common workflows
 
 ### Deprecated
 
