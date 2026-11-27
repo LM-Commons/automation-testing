@@ -5,11 +5,9 @@ on:
     paths-ignore:
       - 'docs/**'
   push:
-    branches:
-    tags:
     paths-ignore:
       - 'docs/**'
 
 jobs:
   ci:
-    uses: laminas/workflow-continuous-integration/.github/workflows/continuous-integration.yml@1.x
+    uses: lm-commons/workflow-automation/.github/workflows/continuous-integration.yml@1.x
