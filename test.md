@@ -1,1 +1,3 @@
-        # Test for automation testing 4 with signed commits
+# Testing
+
+to test minor release (patch)
