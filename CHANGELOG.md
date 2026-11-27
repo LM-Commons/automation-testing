@@ -17,27 +17,22 @@ QA
 
  - [33: Removing CHANGELOG.md for testing](https://github.com/LM-Commons/automation-testing/pull/33) thanks to @visto9259
 
-## 1.10.0 - TBD
+## 1.10.0 - 2026-11-27
 
-### Added
 
-- Nothing.
+-----
 
-### Changed
+### Release Notes for [1.10.0](https://github.com/LM-Commons/automation-testing/milestone/21)
 
-- Nothing.
 
-### Deprecated
 
-- Nothing.
+### 1.10.0
 
-### Removed
+- Total issues resolved: **0**
+- Total pull requests resolved: **1**
+- Total contributors: **1**
 
-- Nothing.
-
-### Fixed
-
-- Nothing.
+ - [39: changed the token used to bump changelog to admin token](https://github.com/LM-Commons/automation-testing/pull/39) thanks to @visto9259
 
 ## [1.3.0](https://github.com/LM-Commons/automation-testing/releases/tag/1.3.0) - 2026-11-25
 
